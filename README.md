@@ -23,7 +23,7 @@ Ensure you have:
 ```
 3. **Run the Application**
 ```
-java -jar build/libs/bowling-0.1.1-SNAPSHOT.jar
+java -jar build/libs/bowling-0.0.1-SNAPSHOT.jar
 ```
 
 ### Example Output
